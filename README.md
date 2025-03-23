@@ -25,5 +25,13 @@ DELETE http://localhost:8080/api/courses/1 to delete a course.
 
 ![image](https://github.com/user-attachments/assets/c9205ad8-534d-418a-8393-82b06efa6a19)
 
+![image](https://github.com/user-attachments/assets/8da9f0c5-cc19-4b02-83f8-7135b461eb1c)
+
+
+![image](https://github.com/user-attachments/assets/c6da8482-8d41-49fe-9ab8-0bfb06d96d3a)
+
+
+
+
 
 
