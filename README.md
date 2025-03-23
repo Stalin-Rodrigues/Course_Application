@@ -4,3 +4,26 @@ This is a simple course application project built using Spring Boot as the backe
 Working and Output of Project:
 ![image](https://github.com/user-attachments/assets/0a191e22-dfc4-4f3b-a4df-66351965514c)
 
+Testing the Application:
+Start the Spring Boot application.
+
+Use a tool like Postman or curl to test the endpoints:
+
+GET http://localhost:8080/api/courses to fetch all courses.
+
+GET http://localhost:8080/api/courses/1 to fetch a course by ID.
+
+POST http://localhost:8080/api/courses to add a new course.
+
+PUT http://localhost:8080/api/courses to update a course.
+
+DELETE http://localhost:8080/api/courses/1 to delete a course.
+
+![image](https://github.com/user-attachments/assets/4bc70ea6-3bed-45b6-b521-1a3d7f57d8cb)
+
+![image](https://github.com/user-attachments/assets/a8282bf6-e545-42a9-8934-7aaf6b28311f)
+
+![image](https://github.com/user-attachments/assets/c9205ad8-534d-418a-8393-82b06efa6a19)
+
+
+
